@@ -1,10 +1,10 @@
-#Site Pizza Dlecia
+# Site Pizza Dlecia
 
-##Sobre o site
+## Sobre o site
 
 Este repositório serve apenas como teste para exercícios de 
 utilização do Git em conjunto com o GitHub
 
-#Autores
+## Autores
 
-Desenvolovido pela Zuleika
+Desenvolovido pela
