@@ -7,7 +7,7 @@ utilização do Git em conjunto com o GitHub
 
 ## Prints de telas
 
-![print da tela imicial] 
+![print da tela imicial](https://github.com/EduardoCTorelli/pizza-delicia/blob/master/miniaturas/Captura%20de%20tela%202024-05-29%20084606.png)
 
 ## Autores
 
